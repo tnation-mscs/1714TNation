@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714tnation2b">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714tnation2c">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="(local):DESKTOP-HO0UVFP\Tyler">
-          <Created>2018-10-10T16:05:54.5824881-05:00</Created>
+          <Created>2018-10-10T17:43:47.0115903-05:00</Created>
           <Type>SQL</Type>
           <Server>(local)</Server>
           <UserName />
@@ -19,69 +19,63 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="1714tnation2b.sql">
+        <FileNode Name="1714tnation2c.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>1714tnation2b.sql</FullPath>
+          <FullPath>1714tnation2c.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
       <Items>
-        <FileNode Name="tnation1714ex2b01.PNG">
+        <FileNode Name="tnation1714ex2c01.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b01.PNG</FullPath>
+          <FullPath>tnation1714ex2c01.PNG</FullPath>
         </FileNode>
-        <FileNode Name="tnation1714ex2b02.PNG">
+        <FileNode Name="tnation1714ex2c02.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b02.PNG</FullPath>
+          <FullPath>tnation1714ex2c02.PNG</FullPath>
         </FileNode>
-        <FileNode Name="tnation1714ex2b03.PNG">
+        <FileNode Name="tnation1714ex2c03.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b03.PNG</FullPath>
+          <FullPath>tnation1714ex2c03.PNG</FullPath>
         </FileNode>
-        <FileNode Name="tnation1714ex2b04.PNG">
+        <FileNode Name="tnation1714ex2c04.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b04.PNG</FullPath>
+          <FullPath>tnation1714ex2c04.PNG</FullPath>
         </FileNode>
-        <FileNode Name="tnation1714ex2b05.PNG">
+        <FileNode Name="tnation1714ex2c05.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b05.PNG</FullPath>
+          <FullPath>tnation1714ex2c05.PNG</FullPath>
         </FileNode>
-        <FileNode Name="tnation1714ex2b06.PNG">
+        <FileNode Name="tnation1714ex2c06.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b06.PNG</FullPath>
+          <FullPath>tnation1714ex2c06.PNG</FullPath>
         </FileNode>
-        <FileNode Name="tnation1714ex2b07.PNG">
+        <FileNode Name="tnation1714ex2c07.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b07.PNG</FullPath>
+          <FullPath>tnation1714ex2c07.PNG</FullPath>
         </FileNode>
-        <FileNode Name="tnation1714ex2b08.PNG">
+        <FileNode Name="tnation1714ex2c08.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b08.PNG</FullPath>
-        </FileNode>
-        <FileNode Name="tnation1714ex2b09.PNG">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>tnation1714ex2b09.PNG</FullPath>
+          <FullPath>tnation1714ex2c08.PNG</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
