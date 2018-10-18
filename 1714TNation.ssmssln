@@ -13,6 +13,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714tnation2c", "1714tnatio
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714tnation2d", "1714tnation2d\1714tnation2d.ssmssqlproj", "{F46B44F7-70D2-487C-83E4-4056163134F3}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714tnation2e", "1714tnation2e\1714tnation2e.ssmssqlproj", "{A198A783-E20E-4040-BD92-713218EF370F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -22,8 +24,9 @@ Global
 		{B972023B-68A1-47BF-A710-73B7EFF77E97}.Default|Default.ActiveCfg = Default
 		{6B505D00-B0FB-4D45-8D3E-C7413FE80E44}.Default|Default.ActiveCfg = Default
 		{8759C9A7-AEF9-499F-B755-D4F5749A05C7}.Default|Default.ActiveCfg = Default
-		{5F8D49F7-D9C9-4435-B1F7-97FB54196F2D}.Default|Default.ActiveCfg = Default
 		{F46B44F7-70D2-487C-83E4-4056163134F3}.Default|Default.ActiveCfg = Default
+		{B33D671E-6472-41F7-BD3F-532CC410464A}.Default|Default.ActiveCfg = Default
+		{A198A783-E20E-4040-BD92-713218EF370F}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
