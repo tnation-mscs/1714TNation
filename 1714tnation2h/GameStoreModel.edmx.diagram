@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e36fb647ee8241a99c4ebf794c3814c8" Name="Diagram1" >
+        <EntityTypeShape EntityType="GameStoreModel.Account" Width="1.5" PointX="1.375" PointY="0.5" />
+        <EntityTypeShape EntityType="GameStoreModel.Product" Width="1.5" PointX="10.375" PointY="0.5" />
+        <EntityTypeShape EntityType="GameStoreModel.LineItem" Width="1.5" PointX="8.125" PointY="0.5" />
+        <EntityTypeShape EntityType="GameStoreModel.Invoice" Width="1.5" PointX="5.875" PointY="0.5" />
+        <EntityTypeShape EntityType="GameStoreModel.Receipt" Width="1.5" PointX="3.625" PointY="0.5" />
+        <AssociationConnector Association="GameStoreModel.InvoiceLineItem" />
+        <AssociationConnector Association="GameStoreModel.AccountReceipt" />
+        <AssociationConnector Association="GameStoreModel.InvoiceReceipt" />
+        <AssociationConnector Association="GameStoreModel.ProductLineItem" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
